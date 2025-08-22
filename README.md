@@ -20,9 +20,6 @@ The **pre training model** is located here:通过网盘分享的文件：premode
 
 <img width="937" height="323" alt="image" src="https://github.com/user-attachments/assets/9d08573e-4012-4756-996e-769b10da2c1f" />
 
-## 🔗Paper Link
-
-Please see https://ieeexplore.ieee.org/abstract/document/10552623
 
 
 
