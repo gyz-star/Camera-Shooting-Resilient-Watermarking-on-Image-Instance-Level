@@ -4,9 +4,13 @@
 
 ## 🔍How to use
 
-Inside Net_b.zip is the source code of the project **"Camera-Shooting-Resilient-Watermarking-on-Image-Instance-Level"**. Where, sample_decoder_only.py is the decoder test code, sample_encoder.py is the encoder test code, align_images.py is the geometric correction test code, and train.py is the training code.
+This is the source code of the project **"Camera-Shooting-Resilient-Watermarking-on-Image-Instance-Level"**. 
+
+In the folder exp, sample_decoder_only.py is the decoder test code, sample_encoder.py is the encoder test code, align_images.py is the geometric correction test code, and train.py is the training code.
 
 Just run them directly using python.
+
+**⚠Please note that our environment is running under pytorch1.7, and higher versions may cause errors to run.**
 
 ## 🖊Pretrained model
 
